@@ -1,5 +1,8 @@
 # Ricochet Lead Status History Extract
 
+### Ricochet Apiary Documentation
+https://ricochet.docs.apiary.io/#reference/leads/leads-collection/create-a-lead?console=1
+
 A Google Cloud Function (HTTP, `functions-framework`) that pulls lead-level data from a [Ricochet360](https://www.ricochet360.com/) CRM instance and publishes it to a Pub/Sub topic for downstream ingestion into BigQuery.
 
 ## What it does
