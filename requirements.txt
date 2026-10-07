@@ -1,0 +1,8 @@
+functions-framework==3.*
+google-cloud-bigquery==3.*
+google-cloud-pubsub==2.*
+requests==2.*
+flask==3.*
+pytz==2024.*
+pandas==2.*
+db-dtypes==1.*
